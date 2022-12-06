@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='66.45.251.234';
+USER='rockvipv_rk';
+PASS='rockvipv_rk';
+DBNAME='rockvipv_rk';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
